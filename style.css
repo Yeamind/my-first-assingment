@@ -213,3 +213,7 @@ footer{
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+footer h2{
+  padding-bottom: 10px;
+}
