@@ -1,13 +1,13 @@
-* {
+*{
   margin: 0;
   padding: 0;
 }
 
-body {
+body{
   font-family: 'Poppins', sans-serif;
 }
 
-.header-section {
+.header-section{
   text-align: center;
   background-image: url(images/donation1.jpg);
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body {
   color: rgb(126, 231, 6);
 }
 
-.donate-button {
+.donate-button{
   text-decoration: none;
   padding: 10px 30px;
   background-color: orange;
@@ -35,7 +35,7 @@ body {
   color: rgb(7, 7, 7);
 }
 
-.second-div {
+.second-div{
   width: 100%;
   text-align: center;
   margin-left: 15px;
@@ -44,17 +44,17 @@ body {
   margin-bottom: 5%;
 }
 
-.second-div p {
+.second-div p{
   font-size: 20px;
   font-weight: bold;
   margin-top: 14px;
 }
 
-h1 {
+h1{
   font-size: 35px;
 }
 
-.money-sec {
+.money-sec{
   text-align: center;
   align-items: center;
   width: 100%;
@@ -62,7 +62,7 @@ h1 {
   justify-content: space-around;
 }
 
-.same-width {
+.same-width{
   padding: 40px;
   border-radius: 10px;
   background-color: rgb(235, 233, 233);
@@ -70,7 +70,7 @@ h1 {
   font-size: 20px;
 }
 
-.two-same-width {
+.two-same-width{
   font-size: 20px;
   font-weight: bold;
   border: 1px solid black;
@@ -79,7 +79,7 @@ h1 {
   background-color: aqua;
 }
 
-.text-search-area {
+.text-search-area{
   width: 40%;
   height: 24px;
   border: rgb(158, 157, 157);
@@ -87,14 +87,14 @@ h1 {
   border-bottom: 1px solid rgb(196, 196, 196);
 }
 
-.search-area {
+.search-area{
   align-items: center;
   text-align: center;
   border-style: none;
   margin-top: 6%;
 }
 
-.one-third {
+.one-third{
   width: 30%;
   /* background-color: #FDF2E9; */
   padding: 15px;
@@ -104,7 +104,7 @@ h1 {
   border-radius: 8px;
 }
 
-.cont-sec {
+.cont-sec{
   display: flex;
 }
 
@@ -173,13 +173,13 @@ h1 {
   margin-bottom: 15px;
 }
 
-.email-subscription {
+.email-subscription{
   display: flex;
   margin-left: 35%;
   margin-right: 35%;
 }
 
-#email-sec {
+#email-sec{
   text-align: center;
   padding: 40px 80px;
   background-color: rgb(224, 184, 108);
@@ -189,11 +189,11 @@ h1 {
   align-items: center;
 }
 
-#emials {
+#emials{
   padding: 7px;
 }
 
-#sub-btn {
+#sub-btn{
   text-decoration: none;
   color: #fff;
   padding: 7px 22px;
@@ -201,7 +201,7 @@ h1 {
   outline: none;
 }
 
-footer {
+footer{
   background-color: #000;
   margin-top: 4%;
   color: #fff;
