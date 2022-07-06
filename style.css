@@ -26,6 +26,8 @@ body {
 
 .make-center p {
   color: rgb(126, 231, 6);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .donate-button {
